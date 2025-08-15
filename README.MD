@@ -109,7 +109,7 @@ Designed for developers who want **scalable microservice-based architecture** wi
 
 ### 1️⃣ Clone the repository
 ```bash
-git clone https://github.com/yourusername/nodejs-microservices-boilerplate.git
+git clone https://github.com/madhakuday/docker-compose-nodejs-microservices-template/
 cd nodejs-microservices-boilerplate
 ```
 
