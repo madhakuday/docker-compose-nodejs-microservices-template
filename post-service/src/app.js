@@ -22,10 +22,6 @@ app.get("/health-check", (req, res) => {
   res.send("App is running");
 });
 
-app.get("/", (req, res) => {
-  res.send("Route not found");
-});
-
 app.listen(port, () => {
   console.log(`App is running on ${process.env.BACKEND_DOMAIN || port}`);
 });
